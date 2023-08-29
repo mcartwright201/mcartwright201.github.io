@@ -1,6 +1,6 @@
 # Matthew Cartwright
 Tyler, Texas, 75701  
-mcartwright@patriots.uttyler.edu | <linkedin.com/in/matthewecartwright>
+mcartwright@patriots.uttyler.edu | <[https://linkedin.com/in/matthewecartwright](https://www.linkedin.com/in/matthewecartwright/)>
 
 ## Summary
 Master's of Accountancy candidate working towards achieving a position in business and corporate tax.  Actively progressing towards CPA licensure,and currently hold MBA from the University of Texas at Tyler. 11 years experience in real estate/property management. 
