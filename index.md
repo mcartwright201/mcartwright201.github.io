@@ -35,9 +35,9 @@ Master's of Accountancy candidate working towards achieving a position in busine
 - "[Another Title]", *Another Journal Name*, [Year]
 
 ## Skills
-- **Programming Languages:** STATA, Python, SAS
-- **Accounting Software:** [List relevant software here]
-- **Other Skills:** [List other relevant skills here]
+- **Programming Languages:** 
+- **Accounting Software:** Quickbooks, Excel
+- **Other Skills:** Analysis, Research, Communications, Organization, Leadership, Team-building
 
 ## Certifications
 - [Certification Name], [Issuing Organization], [Date]
