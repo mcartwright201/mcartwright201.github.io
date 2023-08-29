@@ -13,7 +13,7 @@ Master's of Accountancy candidate working towards achieving a position in busine
 **Masters of Business Administration**, May 2014
 
 #### University of Texas at Tyler, Tyler, Texas
-**Masters of Accountancy**, August 2024 (projected
+**Masters of Accountancy**, August 2024 (projected)
 
 ## Professional Experience
 ### Campus Living Villages, General Manager, Tyler, Texas, June 2012 - Present
